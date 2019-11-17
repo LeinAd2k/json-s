@@ -20,6 +20,13 @@
       "port": 24888,
       "ssl": false,
       "cache": false
+     },
+ {
+      "name": "Netherlands",
+      "url": "62.163.58.113",
+      "port": 24888,
+      "ssl": false,
+      "cache": false
      }
   ]
 }
