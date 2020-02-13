@@ -1,0 +1,92 @@
+[
+  {
+    "category_name": "Exchange",
+    "category_desc": "Buy and sell NashCash",
+    "links": [
+      {
+        "image": "https://nanu.exchange/site/assets/img/logo.png",
+        "link": "https://nanu.exchange/exchange#btc_naca",
+        "title": "nanu.exchange (NaCa/BTC)",
+        "description": "Small and innovative exchange where you can buy and sell NashCash"
+      }
+    ]
+  },
+  {
+    "category_name": "OFFICIAL NashCash",
+    "category_desc": "official products and services",
+    "links": [
+      {
+        "image": "https://nashcash.net/media/logo46-200x200.png",
+        "link": "http://explorer.nashcash.net/",
+        "title": "BLOCK EXPLORER",
+        "description": "Our crypto currency explorer shows the latest blocks and transactions in the blockchain."
+      },
+      {
+        "image": "https://bloc.money/img/ecosystem/bloc-red-pool-ecosystem.png",
+        "link": "https://pool.nashcash.net",
+        "title": "NashCAsh MINING POOL",
+        "description": "NashCash <br> Official mining pool <br> International"
+      },
+      {
+        "image": "https://bloc.money/img/ecosystem/developer.png",
+        "link": "https://github.com/Nash-Cash",
+        "title": "NashCash DEVELOPER",
+        "description": "Resources for developer, E-Commerce and automated services solution for NashCash"
+      },
+      {
+        "image": "https://bloc.money/img/ecosystem/bloc-cool-1.png",
+        "link": "https://webwallet.nashcash.net",
+        "title": "NashCash Webwallet",
+        "description": "Use a NashCash wallet without download the blockchain on your computer"
+      },
+      {
+        "image": "https://bloc.money/img/ecosystem/papaerwallet.png",
+        "link": "https://paperwallet.nashcash.net",
+        "title": "NashCash PAPER WALLET",
+        "description": "Quickly create a NashCash Paper wallet and restore it later on your computer"
+      }
+    ]
+  },
+  {
+    "category_name": "COMMUNITY",
+    "category_desc": "Around NashCash",
+    "links": [
+      {
+        "image": "https://bloc.money/img/ecosystem/coingecko.png",
+        "link": "https://www.coingecko.com/en/coins/nashcash",
+        "title": "CoinGecko",
+        "description": "One of the leading coin market ranking chart app & website"
+      },
+      {
+        "image": "https://bloc.money/img/ecosystem/crypunit.png",
+        "link": "https://www.cryptunit.com/coin/NACA",
+        "title": "CryptUnit",
+        "description": "Leading Cryptonight Mining Calculator. Mining pools and hashrate monitoring"
+      },
+      {
+        "image": "https://bloc.money/img/ecosystem/livecoinwatch1.png",
+        "link": "https://www.livecoinwatch.com/price/BLOCmoney-_BLOC",
+        "title": "LiveCoinWatch",
+        "description": "Real-time cryptocurrencies price index with charts & historical data"
+      },
+      {
+        "image": "https://bloc.money/img/ecosystem/miningpoolstats.png",
+        "link": "https://miningpoolstats.stream/nashcash",
+        "title": "MiningPoolStats",
+        "description": "List of known PoW mining pools with live pool hashrate stats"
+      },
+      {
+        "image": "https://blockfolio.com/static/media/howToUseExample.19b79746.svg",
+        "link": "https://blockfolio.com/coin/NACA?timeFrame=3M",
+        "title": "Blockfolio",
+        "description": "The best Bitcoin, ICO & cryptocurrency portfolio tracker. Everywhere."
+      },
+      {
+        "image": "https://pbs.twimg.com/profile_images/1191276419520909313/mIeygLNe_400x400.jpg",
+        "link": "https://coinpaprika.com/coin/naca-nashcash/",
+        "title": "CoinPaprika",
+        "description": "Global cryptocurrency market high quality data provider."
+      }
+    ]
+  }
+]
